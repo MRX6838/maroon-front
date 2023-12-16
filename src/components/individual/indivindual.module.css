@@ -1,0 +1,53 @@
+.big {
+  width: 100%;
+  height: 100vh;
+  /* border: solid red; */
+  background: #f8f8f6;
+}
+
+.img {
+  position: absolute;
+  left: 500px;
+  margin-top: -470px;
+  width: 40%;
+  height: 55vh;
+  /* border: solid black; */
+}
+.info {
+  width: 50%;
+  height: 85vh;
+  /* border: solid green; */
+  position: relative;
+  top: 70px;
+  left: 50px;
+  background: #f4f1ed;
+}
+.h1 {
+  color: #122947;
+  font-family: Raleway;
+  font-size: 32px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 130%; /* 41.6px */
+}
+
+.txt {
+  width: 50%;
+  height: 55vh;
+  /* border: solid rgb(43, 39, 39); */
+  color: #122947;
+  font-family: Mplus 1p;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 145%; /* 26.1px */
+  margin-left: 70px;
+  margin-top: 70px;
+  gap: 100px;
+}
+.btt {
+  width: 45%;
+  height: 8vh;
+  /* border: solid red; */
+  background-color: transparent;
+}

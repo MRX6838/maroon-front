@@ -1,0 +1,41 @@
+.bigimg {
+  width: 100%;
+  /* border: solid red; */
+  position: relative;
+}
+.nkari {
+  /* position: relative; */
+}
+.inf {
+  width: 20%;
+  height: 40vh;
+  /* border: solid red; */
+  position: absolute;
+  top: 80px;
+  left: 800px;
+  gap: 100px;
+}
+
+.vernagir {
+  color: #122947;
+  font-family: Raleway;
+  font-size: 32px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 125%; /* 40px */
+}
+.paragraf {
+  color: #122947;
+  font-family: Mplus 1p;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 145%; /* 26.1px */
+}
+
+.btt {
+  width: 45%;
+  height: 6vh;
+  /* border: solid red; */
+  background-color: transparent;
+}

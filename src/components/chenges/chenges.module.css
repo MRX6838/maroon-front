@@ -1,0 +1,27 @@
+.biger {
+  width: 100%;
+  height: auto;
+}
+.put {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  gap: 20px;
+}
+.pt {
+  width: 40%;
+  height: 5vh;
+}
+.img {
+  width: 25%;
+  height: 35vh;
+}
+.l {
+  width: 100%;
+}
+.btt {
+  width: 550%;
+  /* height: 20vh; */
+  /* border: solid red; */
+}

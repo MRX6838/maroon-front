@@ -1,0 +1,39 @@
+.mec {
+  width: 100%;
+  height: 70vh;
+  background-image: url("img/nkar.png");
+}
+.h1 {
+  width: 100%;
+  height: 10vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.logdiv {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  width: 100%;
+  gap: 20px;
+}
+.get {
+  width: 40%;
+  /* border: solid red; */
+  display: flex;
+  justify-content: space-between;
+}
+span:hover {
+  color: orange;
+}
+.put {
+  width: 40%;
+  height: 7vh;
+}
+.spann {
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
